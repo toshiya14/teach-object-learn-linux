@@ -1,0 +1,5 @@
+# reveal.js 静态站点生成产物；保留 slides/*.reveal.md 源文件
+/exports/reveal/
+
+# 录制的课时录像
+/rec/
